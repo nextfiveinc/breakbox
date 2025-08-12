@@ -3,7 +3,7 @@
 BreakBox is a minimalist, single-file web app designed to give you a gentle nudge when you're feeling stuck, bored, or stuck in a rut. It provides a random, simple task to help you take a quick, productive break and inject a little variety into your day. Think of it as your own spontaneity engine.
 
 <table>
-  <tr>
+  <tr align="center">
     <td align="center">
       <img src="https://github.com/nextfiveinc/breakbox/blob/main/screenshots/Screenshot%20from%202025-08-12%2018-18-10.png" alt="Home screen" width="400">
       <br>
@@ -37,7 +37,6 @@ The one-hour cooldown timer is the most important feature. It encourages you to 
       <img src="https://github.com/nextfiveinc/breakbox/blob/main/screenshots/Screenshot%20from%202025-08-12%2018-18-02.png" alt="Suggestion screen" width="200">
       <br>
       <em>Click "Something else" if you want</em> <br>
-      <em>But you cannot keep mashing that forever. Time out for an hour after 3 skips. </em>
     </td>
      <td align="center">
       <img src="https://github.com/nextfiveinc/breakbox/blob/main/screenshots/Screenshot%20from%202025-08-12%2018-20-00.png" alt="Add your own task" width="200">
