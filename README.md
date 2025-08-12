@@ -63,7 +63,7 @@ The one-hour cooldown timer is the most important feature. It encourages you to 
 
 ## How to Use
 
-1.  **Download:** Save the `spontaneity.html` file from this folder.
+1.  **Download:** Save the `breakbox.html` file from this folder.
 2.  **Open:** Open the file in any modern web browser.
 3.  **Get Unstuck:** Click the button whenever you need a break from your routine.
 
